@@ -1,11 +1,11 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Костя Бобовской](https://up.htmlacademy.ru/javascript/31/user/2376057).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Медведев] (https://htmlacademy.ru/profile/exteep).
 
 ---
 
-_Не удаляйте и не изменяйте самовольно файлы и папки:_
+_не удаляйте и не изменяйте самовольно файлы и папки:_
 _`.editorconfig`, `.eslintrc`, `.gitattributes`, `.gitignore`, `package-lock.json`, `package.json`., `.github`_
 
 ---
